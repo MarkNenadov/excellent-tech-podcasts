@@ -1,5 +1,5 @@
 # excellent-tech-podcasts
-Excellent tech podcasts
+Excellent tech podcasts that I've personally enjoyed
 
 ## Postgres
 
