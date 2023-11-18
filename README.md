@@ -3,7 +3,8 @@ Excellent tech podcasts that I've personally enjoyed
 
 ## Postgres
 
-* Scaling Postgres (https://www.scalingpostgres.com/, https://podcasts.apple.com/dk/podcast/scaling-postgres/id1362398776)
+* Scaling Postgres (https://www.scalingpostgres.com/)
+    * https://podcasts.apple.com/dk/podcast/scaling-postgres/id1362398776)
 
 ## Kotlin
 
