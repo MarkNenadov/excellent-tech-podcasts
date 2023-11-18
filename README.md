@@ -8,7 +8,9 @@ Excellent tech podcasts that I've personally enjoyed
 
 ## Kotlin
 
-* Talking Kotlin (https://talkingkotlin.com/, https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM, https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266)
+* Talking Kotlin (https://talkingkotlin.com/)
+    * https://open.spotify.com/show/5ZyWVfBi0WiPlmomrDQ6PM
+    * https://podcasts.apple.com/us/podcast/talking-kotlin/id1194631266)
 
 ## Web Development
 
@@ -24,7 +26,8 @@ Excellent tech podcasts that I've personally enjoyed
 
 ## Product
 
-* Product Thinking (https://podcasts.apple.com/ca/podcast/product-thinking/id1550800132, https://open.spotify.com/show/3TV1jXZqlSFCzZ3xqvcG96)
+* Product Thinking (https://podcasts.apple.com/ca/podcast/product-thinking/id1550800132)
+    * https://open.spotify.com/show/3TV1jXZqlSFCzZ3xqvcG96
 
 ## Developer Productivity
 
@@ -32,7 +35,8 @@ Excellent tech podcasts that I've personally enjoyed
 
 ## Devops
 
-* Devops Paraedox (https://www.devopsparadox.com/, https://podcasts.apple.com/ca/podcast/devops-paradox/id1462366641)
+* Devops Paraedox (https://www.devopsparadox.com/)
+    * https://podcasts.apple.com/ca/podcast/devops-paradox/id1462366641
 
 ## General Software Engineering
 
@@ -41,5 +45,6 @@ Excellent tech podcasts that I've personally enjoyed
 
 ## Unsorted
 
-* Hackers Incorporated (https://hackersincorporated.com/, https://podcasts.apple.com/gb/podcast/hackers-incorporated/id1679170566)
+* Hackers Incorporated (https://hackersincorporated.com/)
+    * https://podcasts.apple.com/gb/podcast/hackers-incorporated/id1679170566
 * Hanselminutes with Scott Hanselman (https://hanselminutes.com/)
