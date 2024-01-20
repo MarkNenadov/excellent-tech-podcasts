@@ -15,9 +15,6 @@ Excellent tech podcasts that I've personally enjoyed
 ## Web Development
 
 * Syntax (https://syntax.fm/)
-
-## React
-
 * React Roundup (https://open.spotify.com/show/3SV6RRWsJ1d6lDZDqREEdt)
 
 ## Ruby
